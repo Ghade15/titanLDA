@@ -77,3 +77,24 @@ The implementation may encounter difficulties with:
 
 1. **Highly Imbalanced Data**: Struggles when class sizes are noticeably imbalanced.
 2. **High Dimensionality with Few Samples**: May exhibit irregular behavior when the number of features exceeds the number of samples. Dimensionality reduction using PCA can be a solution.
+
+3. # Project Title
+
+A brief description of what this project does and who it's for.
+
+## Project Structure
+C:.
+│   .gitignore
+│   Final_LDA.ipynb
+│   generated_data.csv
+│   README.md
+│   requirements.txt
+│   testDataGenerator.py
+│
+└───regularized_discriminant_analysis
+│   test_rdamodel.py
+│
+├───models
+│       finalLDA.py
+│
+└───tests
