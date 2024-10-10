@@ -17,21 +17,17 @@ This project implements a Linear Discriminant Analysis (LDA) model for dimension
 ### Step 1: Generate the Data
 
 To generate synthetic data, use the following command:
-bash
 py .\testDataGenerator.py -N <Sample size> -f <features> -c <classes> -seed 10000 -output_file generated_data.csv
 
-
 Example:
-
-bash
 py .\testDataGenerator.py -N 150 -f 8 -c 5 -seed 10000 -output_file generated_data.csv
 
 
 ### Step 2: Run the Program
 
 Execute the final LDA model with:
-bash
-python final
+
+py finalLDA
 
 
 ## Model Testing
