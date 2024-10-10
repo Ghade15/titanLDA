@@ -35,7 +35,7 @@ py .\testDataGenerator.py -N 150 -f 8 -c 5 -seed 10000 -output_file generated_da
 Execute the final LDA model with:
 
  ```bash
-py finalLDA
+py .\finalLDA.py
 
  ```
 
