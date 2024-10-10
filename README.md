@@ -7,6 +7,8 @@ RakeshReddy - A20525389
 
 This project implements a Linear Discriminant Analysis (LDA) model for dimensionality reduction and classification. The model projects high-dimensional data into a lower-dimensional space, maximizing the distance between classes. It is particularly useful for visualizing data with a reduced number of features.
 
+### The program execution steps is shown in final_LDA.ipynb notebook
+
 ### When to Use the Model
 
 - **Classification Tasks**: Suitable for classifying data into different classes.
