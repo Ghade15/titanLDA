@@ -49,7 +49,7 @@ py .\finalLDA.py
 
 ### Step 2: Generated Data
 
-- The model was tested using synthetic data generated from `generated_data.py`, allowing for testing under various conditions with variable classes, samples, and features.
+- The model was tested using synthetic data generated from `testDataGenerator.py`, allowing for testing under various conditions with variable classes, samples, and features.
 
 ### Step 3: Manual Train-Test Split
 
