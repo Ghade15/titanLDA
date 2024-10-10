@@ -4,6 +4,7 @@ RakeshReddy - A20525389
 
 ## Overview
 
+
 This project implements a Linear Discriminant Analysis (LDA) model for dimensionality reduction and classification. The model projects high-dimensional data into a lower-dimensional space, maximizing the distance between classes. It is particularly useful for visualizing data with a reduced number of features.
 
 ### When to Use the Model
@@ -11,6 +12,23 @@ This project implements a Linear Discriminant Analysis (LDA) model for dimension
 - **Classification Tasks**: Suitable for classifying data into different classes.
 - **Multivariate Normal Distribution Assumption**: Effective when data for each class follows a normal distribution.
 - **Dimensionality Reduction**: Reduces data to lower dimensions while maintaining class separability.
+
+### Folder Structure
+root:
+│   .gitignore
+│   Final_LDA.ipynb
+│   generated_data.csv
+│   README.md
+│   requirements.txt
+│   testDataGenerator.py
+│
+└───regularized_discriminant_analysis
+    │   test_rdamodel.py
+    │
+    ├───models
+    │       finalLDA.py
+    │
+    └───tests
 
 ## Running the Program
 
