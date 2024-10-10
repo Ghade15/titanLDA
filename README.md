@@ -1,6 +1,9 @@
 # README
 
 RakeshReddy - A20525389
+Geeta Hade - A20580824
+Nishant Khandhar - A20581012
+Amogh Vastrad - A20588808
 
 ## Overview
 
@@ -51,7 +54,7 @@ final_LDA.ipynb
 
 
 
-## Model Testing
+## How did you test your model to determine if it is working correcty?
 
 ### Step 1: Training on Available Dataset (Iris)
 
