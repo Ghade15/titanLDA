@@ -42,6 +42,12 @@ Execute the final LDA model with:
 py .\finalLDA.py
 
  ```
+The program execution steps are shown in the notebook file
+ ```bash
+final_LDA.ipynb 
+
+ ```
+
 
 
 
