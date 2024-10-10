@@ -13,22 +13,6 @@ This project implements a Linear Discriminant Analysis (LDA) model for dimension
 - **Multivariate Normal Distribution Assumption**: Effective when data for each class follows a normal distribution.
 - **Dimensionality Reduction**: Reduces data to lower dimensions while maintaining class separability.
 
-### Folder Structure
-root:
-│   .gitignore
-│   Final_LDA.ipynb
-│   generated_data.csv
-│   README.md
-│   requirements.txt
-│   testDataGenerator.py
-│
-└───regularized_discriminant_analysis
-    │   test_rdamodel.py
-    │
-    ├───models
-    │       finalLDA.py
-    │
-    └───tests
 
 ## Running the Program
 
